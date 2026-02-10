@@ -1,6 +1,4 @@
 
--- Simpele GUI met tabbladen (Roblox Lua)
--- Zet je scripts in de callbacks onderaan.
 
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
